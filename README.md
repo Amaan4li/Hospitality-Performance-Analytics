@@ -93,7 +93,7 @@ Develop a structured and interactive analytics dashboard to:
 
 ---
 
-## 🖼️ Project Visuas
+## 🖼️ Project Visuals
 
 ![dashboard](image/dashboard.png)
 ![model](image/datamodel.png)
